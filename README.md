@@ -1,7 +1,9 @@
 # mypokedex
 React native Pokedex app
 
-Used Expo to help me create a bare react native app quickly to get started
+Used Expo to help me create a bare react native app quickly to get started: expo init projectName
+- runs using expo start command
+- executed on phone by using the camera QR scanner with the expo application installed on the phone
 
 Used no external packages
 
